@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://caioaugustomiguel.github.io/blog/</loc>
+    <lastmod>2020-03-19T15:59:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://caioaugustomiguel.github.io/</loc>
-    <lastmod>2020-03-19T21:52:24-03:00</lastmod>
+    <lastmod>2020-03-19T15:59:13-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://caioaugustomiguel.github.io/posts/</loc>
-    <lastmod>2020-03-19T21:52:24-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://caioaugustomiguel.github.io/posts/usd-swaps/</loc>
-    <lastmod>2020-03-19T21:52:24-03:00</lastmod>
+    <loc>https://caioaugustomiguel.github.io/blog/usd-swaps/</loc>
+    <lastmod>2020-03-19T15:59:13-04:00</lastmod>
   </url>
   
   <url>
@@ -28,6 +28,11 @@
     <loc>https://caioaugustomiguel.github.io/categories/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://caioaugustomiguel.github.io/coderag/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
@@ -49,7 +54,26 @@
   </url>
   
   <url>
-    <loc>https://caioaugustomiguel.github.io/snippets/</loc>
+    <loc>https://caioaugustomiguel.github.io/categories/articles/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://caioaugustomiguel.github.io/tags/aviato/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://caioaugustomiguel.github.io/tags/bachman/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://caioaugustomiguel.github.io/tags/pied-piper/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
