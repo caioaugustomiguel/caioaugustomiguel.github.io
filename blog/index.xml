@@ -6,10 +6,30 @@
     <description>Recent content in Blogs on Caio Miguel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Mar 2020 13:34:41 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 16:00:52 -0300</lastBuildDate>
     
 	<atom:link href="https://caioaugustomiguel.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>O que está na taxa de mortalidade?</title>
+      <link>https://caioaugustomiguel.github.io/blog/whats-cfr-pt/</link>
+      <pubDate>Sat, 28 Mar 2020 16:00:52 -0300</pubDate>
+      
+      <guid>https://caioaugustomiguel.github.io/blog/whats-cfr-pt/</guid>
+      <description>Esse tópico vem me confundindo desde o início da pandemia do COVID-19. Deixe-me começar dizendo que estou fora do meu elemento aqui. Eu definitivamente não sou um epidemiologista. Às vezes nem sei se sou economista. Mas vamos lá.
+Temos visto estimativas da taxa de mortalidade em torno de 3%. Esse número é calculado usando o total de mortes causadas pelo vírus dividido pelo total de infectados. É assim que a Enciclopædia Britannica define a CFR.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s in a CFR</title>
+      <link>https://caioaugustomiguel.github.io/blog/whats-cfr/</link>
+      <pubDate>Sat, 28 Mar 2020 16:00:52 -0300</pubDate>
+      
+      <guid>https://caioaugustomiguel.github.io/blog/whats-cfr/</guid>
+      <description>This is a topic that has been confusing me since the coronavirus pandemic started. Let me start by saying I&amp;rsquo;m definitely out of my element here. I&amp;rsquo;m no epidemiologist. I&amp;rsquo;m not even sure I&amp;rsquo;m an economist. But let&amp;rsquo;s get to it.
+The case fatality rate has been quoted in the media and by experts as somewhere around 3%. This number is calculated by taking the number of deaths caused by the virus and dividing it by the number of total cases.</description>
+    </item>
     
     <item>
       <title>Bazooka Blasts (what is QE?)</title>
