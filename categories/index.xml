@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Caio Miguel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 21:12:05 +0000</lastBuildDate>
     
 	<atom:link href="https://caioaugustomiguel.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>articles</title>
+      <link>https://caioaugustomiguel.github.io/categories/articles/</link>
+      <pubDate>Mon, 30 Mar 2020 21:12:05 +0000</pubDate>
+      
+      <guid>https://caioaugustomiguel.github.io/categories/articles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>about</title>
