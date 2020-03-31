@@ -17,7 +17,7 @@
       <pubDate>Mon, 30 Mar 2020 21:12:05 +0000</pubDate>
       
       <guid>https://caioaugustomiguel.github.io/stuff/</guid>
-      <description>Fiz essa coleção de funções para usar, mas não tive a oportunidade. Segue para todos que quiserem. Fico a disposição se precisarem de assistência para utilizar as funções.
+      <description>Fiz essa coleção de funções para usar e gostaria de compartilhar com todos para usarem. Fico a disposição se precisarem de assistência para utilizar as funções.
 Vocês verão auth$ como parte do código. Isso é porque tenho nomeado o objeto que retorna a mensagem de login auth. É ncessário ter acesso ao API da Anbima para utilizar as funções.
 # api anbima ## precos e indices ### logins loginIndicesPrecos &amp;lt;- function(cID = NULL, cScrt = NULL){ library(httr) library(jsonlite) if(is.</description>
     </item>
