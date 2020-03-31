@@ -6,21 +6,10 @@
     <description>Recent content in Blogs on Caio Miguel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 30 Mar 2020 20:46:53 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 16:00:52 -0300</lastBuildDate>
     
 	<atom:link href="https://caioaugustomiguel.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>API Anbima</title>
-      <link>https://caioaugustomiguel.github.io/blog/anbimaapi/</link>
-      <pubDate>Mon, 30 Mar 2020 20:46:53 -0300</pubDate>
-      
-      <guid>https://caioaugustomiguel.github.io/blog/anbimaapi/</guid>
-      <description>Fiz essa coleção de funções para usar, mas não tive a oportunidade. Segue para todos que quiserem. Fico a disposição se precisarem de assistência para utilizar as funções.
-Vocês verão auth$ como parte do código. Isso é porque tenho nomeado o objeto que retorna a mensagem de login como auth. É ncessário ter acesso ao API da Anbima para utilizar as funções.
-# api anbima ## precos e indices ### logins loginIndicesPrecos &amp;lt;- function(cID = NULL, cScrt = NULL){ library(httr) library(jsonlite) if(is.</description>
-    </item>
     
     <item>
       <title>Calchutando uma taxa</title>
