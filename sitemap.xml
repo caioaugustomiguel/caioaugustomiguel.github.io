@@ -3,25 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://caioaugustomiguel.github.io/blog/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://caioaugustomiguel.github.io/stuff/</loc>
+    <lastmod>2020-03-30T21:12:05+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://caioaugustomiguel.github.io/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://caioaugustomiguel.github.io/blog/qe-br/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://caioaugustomiguel.github.io/stuff/</loc>
     <lastmod>2020-03-30T21:12:05+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -34,26 +23,6 @@
     <loc>https://caioaugustomiguel.github.io/categories/articles/</loc>
     <lastmod>2020-03-30T21:12:05+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://caioaugustomiguel.github.io/blog/whats-cfr-pt/</loc>
-    <lastmod>2020-03-28T16:00:52-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://caioaugustomiguel.github.io/blog/whats-cfr/</loc>
-    <lastmod>2020-03-28T16:00:52-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://caioaugustomiguel.github.io/blog/usd-swaps/</loc>
-    <lastmod>2020-03-19T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://caioaugustomiguel.github.io/blog/usd-swaps-pt/</loc>
-    <lastmod>2020-03-19T15:59:13-04:00</lastmod>
   </url>
   
   <url>
